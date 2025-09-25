@@ -39,6 +39,7 @@ input:focus {
 
 img {
     vertical-align: middle;
+
 }
 
 button {
@@ -103,14 +104,14 @@ main {
 
 }
 
-main aside {
+aside {
     display: grid;
     grid-template-columns: 1fr;
     align-content: flex-start;
 }
 
-main img {
-    width: 100%;
+img {
+    width: 80%;
     padding: .9rem;
 }
 
