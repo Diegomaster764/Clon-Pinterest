@@ -37,10 +37,6 @@ input:focus {
     outline: 0;
 }
 
-img {
-    vertical-align: middle;
-
-}
 
 button {
     background-color: transparent;
@@ -110,9 +106,13 @@ aside {
     align-content: flex-start;
 }
 
+
+
 img {
     width: 80%;
-    padding: .9rem;
+    padding: 5px;
+    margin: 5px;
+    height: auto;
 }
 
 .overlay {
